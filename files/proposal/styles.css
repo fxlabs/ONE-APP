@@ -48,3 +48,23 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+body.a {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1024px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u0.a {
+}
+#u0_input.a {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1020px;
+  height:764px;
+}
+#u1.a {
+}
