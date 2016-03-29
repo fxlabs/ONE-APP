@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1030px;
+  width:1280px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -16,20 +16,20 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1020px;
-  height:764px;
+  width:1276px;
+  height:796px;
 }
 #u0_input {
   position:absolute;
   left:0px;
   top:0px;
-  width:1020px;
-  height:764px;
+  width:1276px;
+  height:796px;
 }
 #u1 {
   position:absolute;
-  left:894px;
-  top:778px;
+  left:1144px;
+  top:823px;
   width:136px;
   height:57px;
 }
@@ -52,7 +52,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   background-image:none;
   position:static;
   left:auto;
-  width:1030px;
+  width:1280px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -63,8 +63,8 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   position:absolute;
   left:0px;
   top:0px;
-  width:1020px;
-  height:764px;
+  width:1276px;
+  height:796px;
 }
 #u1.a {
 }
