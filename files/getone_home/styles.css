@@ -406,6 +406,9 @@
   top:0px;
   width:960px;
   height:2740px;
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u23_img {
   position:absolute;
@@ -425,9 +428,12 @@
 #u25 {
   position:absolute;
   left:211px;
-  top:2390px;
+  top:2422px;
   width:70px;
   height:70px;
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u25_img {
   position:absolute;
@@ -450,6 +456,9 @@
   top:1030px;
   width:93px;
   height:93px;
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u27_img {
   position:absolute;
@@ -476,6 +485,9 @@
   -moz-transform:rotate(330deg);
   -ms-transform:rotate(330deg);
   transform:rotate(330deg);
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u29_img {
   position:absolute;
@@ -498,6 +510,9 @@
   top:17px;
   width:140px;
   height:12px;
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u31_img {
   position:absolute;
@@ -545,6 +560,9 @@
   top:2650px;
   width:960px;
   height:1340px;
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u35_img {
   position:absolute;
@@ -618,7 +636,7 @@
   top:380px;
   width:360px;
   height:50px;
-  font-family:'NokiaPureHeadline-Regular', 'Nokia Pure Headline';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:26px;
@@ -650,8 +668,8 @@
   left:126px;
   top:260px;
   width:709px;
-  height:58px;
-  font-family:'NokiaPureHeadline-Light', 'Nokia Pure Headline Light', 'Nokia Pure Headline';
+  height:57px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
   font-weight:200;
   font-style:normal;
   font-size:42px;
@@ -663,7 +681,7 @@
   left:0px;
   top:0px;
   width:709px;
-  height:58px;
+  height:57px;
 }
 #u44 {
   position:absolute;
@@ -678,6 +696,9 @@
   top:129px;
   width:83px;
   height:83px;
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u45_img {
   position:absolute;
@@ -698,9 +719,9 @@
   position:absolute;
   left:436px;
   top:132px;
-  width:129px;
-  height:53px;
-  font-family:'NokiaPureHeadline-Light', 'Nokia Pure Headline Light', 'Nokia Pure Headline';
+  width:141px;
+  height:52px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
   font-weight:200;
   font-style:normal;
   font-size:38px;
@@ -710,23 +731,23 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:129px;
-  height:53px;
+  width:141px;
+  height:52px;
 }
 #u48 {
   position:absolute;
   left:0px;
   top:0px;
-  width:129px;
+  width:141px;
   white-space:nowrap;
 }
 #u49 {
   position:absolute;
-  left:560px;
+  left:574px;
   top:127px;
   width:40px;
   height:19px;
-  font-family:'NokiaPureHeadline-Light', 'Nokia Pure Headline Light', 'Nokia Pure Headline';
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
   font-weight:200;
   font-style:normal;
   font-size:16px;
@@ -748,14 +769,14 @@
 }
 #u51 {
   position:absolute;
-  left:440px;
-  top:180px;
+  left:438px;
+  top:183px;
   width:135px;
-  height:77px;
-  font-family:'NokiaPureHeadline-UltraLight', 'Nokia Pure Headline Ultra Light', 'Nokia Pure Headline';
-  font-weight:100;
+  height:68px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
   font-style:normal;
-  font-size:20px;
+  font-size:18px;
   color:#BEC8D2;
 }
 #u51_img {
@@ -763,7 +784,7 @@
   left:0px;
   top:0px;
   width:135px;
-  height:77px;
+  height:68px;
 }
 #u52 {
   position:absolute;
@@ -778,6 +799,9 @@
   top:480px;
   width:360px;
   height:202px;
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u53_img {
   position:absolute;
@@ -800,6 +824,9 @@
   top:554px;
   width:36px;
   height:57px;
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u55_img {
   position:absolute;
@@ -820,26 +847,26 @@
   position:absolute;
   left:40px;
   top:840px;
-  width:470px;
-  height:42px;
-  font-family:'NokiaPureHeadline-UltraLight', 'Nokia Pure Headline Ultra Light', 'Nokia Pure Headline';
-  font-weight:100;
+  width:520px;
+  height:38px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
   font-style:normal;
-  font-size:30px;
+  font-size:28px;
   color:#00C9FF;
 }
 #u57_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:470px;
-  height:42px;
+  width:520px;
+  height:38px;
 }
 #u58 {
   position:absolute;
   left:0px;
   top:0px;
-  width:470px;
+  width:520px;
   word-wrap:break-word;
 }
 #u59 {
@@ -847,11 +874,11 @@
   left:40px;
   top:897px;
   width:485px;
-  height:82px;
-  font-family:'NokiaPureHeadline-UltraLight', 'Nokia Pure Headline Ultra Light', 'Nokia Pure Headline';
-  font-weight:100;
+  height:72px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
   font-style:normal;
-  font-size:20px;
+  font-size:18px;
   color:#BEC8D2;
 }
 #u59_img {
@@ -859,7 +886,7 @@
   left:0px;
   top:0px;
   width:485px;
-  height:82px;
+  height:72px;
 }
 #u60 {
   position:absolute;
@@ -872,26 +899,26 @@
   position:absolute;
   left:512px;
   top:1453px;
-  width:380px;
-  height:42px;
-  font-family:'NokiaPureHeadline-UltraLight', 'Nokia Pure Headline Ultra Light', 'Nokia Pure Headline';
-  font-weight:100;
+  width:418px;
+  height:38px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
   font-style:normal;
-  font-size:30px;
+  font-size:28px;
   color:#00C9FF;
 }
 #u61_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:380px;
-  height:42px;
+  width:418px;
+  height:38px;
 }
 #u62 {
   position:absolute;
   left:0px;
   top:0px;
-  width:380px;
+  width:418px;
   word-wrap:break-word;
 }
 #u63 {
@@ -899,11 +926,11 @@
   left:435px;
   top:1508px;
   width:495px;
-  height:82px;
-  font-family:'NokiaPureHeadline-UltraLight', 'Nokia Pure Headline Ultra Light', 'Nokia Pure Headline';
-  font-weight:100;
+  height:72px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
   font-style:normal;
-  font-size:20px;
+  font-size:18px;
   color:#BEC8D2;
 }
 #u63_img {
@@ -911,7 +938,7 @@
   left:0px;
   top:0px;
   width:495px;
-  height:82px;
+  height:72px;
 }
 #u64 {
   position:absolute;
@@ -926,6 +953,9 @@
   top:1448px;
   width:57px;
   height:48px;
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u65_img {
   position:absolute;
@@ -945,63 +975,63 @@
 #u67 {
   position:absolute;
   left:40px;
-  top:2069px;
-  width:520px;
-  height:42px;
-  font-family:'NokiaPureHeadline-UltraLight', 'Nokia Pure Headline Ultra Light', 'Nokia Pure Headline';
-  font-weight:100;
+  top:2062px;
+  width:566px;
+  height:38px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
   font-style:normal;
-  font-size:30px;
+  font-size:28px;
   color:#00C9FF;
 }
 #u67_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:520px;
-  height:42px;
+  width:566px;
+  height:38px;
 }
 #u68 {
   position:absolute;
   left:0px;
   top:0px;
-  width:520px;
+  width:566px;
   word-wrap:break-word;
 }
 #u69 {
   position:absolute;
   left:40px;
-  top:2124px;
-  width:500px;
-  height:165px;
-  font-family:'NokiaPureHeadline-UltraLight', 'Nokia Pure Headline Ultra Light', 'Nokia Pure Headline';
-  font-weight:100;
+  top:2111px;
+  width:520px;
+  height:144px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
   font-style:normal;
-  font-size:20px;
+  font-size:18px;
   color:#BEC8D2;
 }
 #u69_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:500px;
-  height:165px;
+  width:520px;
+  height:144px;
 }
 #u70 {
   position:absolute;
   left:0px;
   top:0px;
-  width:500px;
+  width:520px;
   word-wrap:break-word;
 }
 #u71 {
   position:absolute;
   left:126px;
-  top:2680px;
+  top:2703px;
   width:709px;
-  height:58px;
-  font-family:'NokiaPureHeadline-UltraLight', 'Nokia Pure Headline Ultra Light', 'Nokia Pure Headline';
-  font-weight:100;
+  height:57px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
   font-style:normal;
   font-size:42px;
   color:#FFFFFF;
@@ -1012,7 +1042,7 @@
   left:0px;
   top:0px;
   width:709px;
-  height:58px;
+  height:57px;
 }
 #u72 {
   position:absolute;
@@ -1026,11 +1056,11 @@
   left:250px;
   top:2800px;
   width:520px;
-  height:42px;
-  font-family:'NokiaPureHeadline-UltraLight', 'Nokia Pure Headline Ultra Light', 'Nokia Pure Headline';
-  font-weight:100;
+  height:38px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
   font-style:normal;
-  font-size:30px;
+  font-size:28px;
   color:#00C9FF;
   text-align:center;
 }
@@ -1039,7 +1069,7 @@
   left:0px;
   top:0px;
   width:520px;
-  height:42px;
+  height:38px;
 }
 #u74 {
   position:absolute;
@@ -1053,11 +1083,11 @@
   left:40px;
   top:2860px;
   width:890px;
-  height:199px;
-  font-family:'NokiaPureHeadline-UltraLight', 'Nokia Pure Headline Ultra Light', 'Nokia Pure Headline';
-  font-weight:100;
+  height:176px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
   font-style:normal;
-  font-size:20px;
+  font-size:18px;
   color:#BEC8D2;
 }
 #u75_img {
@@ -1065,7 +1095,7 @@
   left:0px;
   top:0px;
   width:890px;
-  height:199px;
+  height:176px;
 }
 #u76 {
   position:absolute;
@@ -1079,11 +1109,11 @@
   left:269px;
   top:3096px;
   width:470px;
-  height:42px;
-  font-family:'NokiaPureHeadline-UltraLight', 'Nokia Pure Headline Ultra Light', 'Nokia Pure Headline';
-  font-weight:100;
+  height:38px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
   font-style:normal;
-  font-size:30px;
+  font-size:28px;
   color:#00C9FF;
   text-align:center;
 }
@@ -1092,7 +1122,7 @@
   left:0px;
   top:0px;
   width:470px;
-  height:42px;
+  height:38px;
 }
 #u78 {
   position:absolute;
@@ -1106,11 +1136,11 @@
   left:40px;
   top:3161px;
   width:890px;
-  height:266px;
-  font-family:'NokiaPureHeadline-UltraLight', 'Nokia Pure Headline Ultra Light', 'Nokia Pure Headline';
-  font-weight:100;
+  height:236px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
   font-style:normal;
-  font-size:20px;
+  font-size:18px;
   color:#BEC8D2;
 }
 #u79_img {
@@ -1118,7 +1148,7 @@
   left:0px;
   top:0px;
   width:890px;
-  height:266px;
+  height:236px;
 }
 #u80 {
   position:absolute;
@@ -1133,6 +1163,9 @@
   top:3546px;
   width:83px;
   height:83px;
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u81_img {
   position:absolute;
@@ -1155,6 +1188,9 @@
   top:2799px;
   width:40px;
   height:40px;
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u83_img {
   position:absolute;
@@ -1177,6 +1213,9 @@
   top:3091px;
   width:51px;
   height:51px;
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u85_img {
   position:absolute;
@@ -1199,6 +1238,9 @@
   top:394px;
   width:15px;
   height:22px;
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u87_img {
   position:absolute;
@@ -1219,9 +1261,9 @@
   position:absolute;
   left:450px;
   top:3545px;
-  width:129px;
-  height:53px;
-  font-family:'NokiaPureHeadline-Light', 'Nokia Pure Headline Light', 'Nokia Pure Headline';
+  width:141px;
+  height:52px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
   font-weight:200;
   font-style:normal;
   font-size:38px;
@@ -1231,14 +1273,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:129px;
-  height:53px;
+  width:141px;
+  height:52px;
 }
 #u90 {
   position:absolute;
   left:0px;
   top:0px;
-  width:129px;
+  width:141px;
   white-space:nowrap;
 }
 #u91 {
@@ -1247,7 +1289,7 @@
   top:3540px;
   width:40px;
   height:19px;
-  font-family:'NokiaPureHeadline-Light', 'Nokia Pure Headline Light', 'Nokia Pure Headline';
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
   font-weight:200;
   font-style:normal;
   font-size:16px;
@@ -1273,10 +1315,10 @@
   top:3598px;
   width:135px;
   height:39px;
-  font-family:'NokiaPureHeadline-UltraLight', 'Nokia Pure Headline Ultra Light', 'Nokia Pure Headline';
-  font-weight:100;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
   font-style:normal;
-  font-size:20px;
+  font-size:18px;
   color:#BEC8D2;
 }
 #u93_img {
@@ -1299,6 +1341,9 @@
   top:3910px;
   width:19px;
   height:19px;
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u95_img {
   position:absolute;
@@ -1321,6 +1366,9 @@
   top:14px;
   width:19px;
   height:19px;
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u97_img {
   position:absolute;
@@ -1343,7 +1391,7 @@
   top:3685px;
   width:360px;
   height:50px;
-  font-family:'NokiaPureHeadline-Regular', 'Nokia Pure Headline';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:26px;
@@ -1376,6 +1424,9 @@
   top:3699px;
   width:15px;
   height:22px;
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u101_img {
   position:absolute;
@@ -1398,6 +1449,9 @@
   top:800px;
   width:270px;
   height:520px;
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u103_img {
   position:absolute;
@@ -1420,6 +1474,9 @@
   top:1070px;
   width:25px;
   height:25px;
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u105_img {
   position:absolute;
@@ -1442,6 +1499,9 @@
   top:1113px;
   width:51px;
   height:51px;
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u107_img {
   position:absolute;
@@ -1464,6 +1524,9 @@
   top:1141px;
   width:38px;
   height:38px;
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u109_img {
   position:absolute;
@@ -1490,6 +1553,9 @@
   -moz-transform:rotate(6deg);
   -ms-transform:rotate(6deg);
   transform:rotate(6deg);
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u111_img {
   position:absolute;
@@ -1516,6 +1582,9 @@
   -moz-transform:rotate(6deg);
   -ms-transform:rotate(6deg);
   transform:rotate(6deg);
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u113_img {
   position:absolute;
@@ -1535,10 +1604,13 @@
 #u115 {
   position:absolute;
   left:118px;
-  top:2288px;
+  top:2320px;
   width:234px;
   height:259px;
   opacity:0.800000011920929;
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u115_img {
   position:absolute;
@@ -1561,6 +1633,9 @@
   top:846px;
   width:238px;
   height:400px;
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u117_img {
   position:absolute;
@@ -1583,6 +1658,9 @@
   top:1410px;
   width:270px;
   height:520px;
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u119_img {
   position:absolute;
@@ -1605,6 +1683,9 @@
   top:1456px;
   width:238px;
   height:400px;
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u121_img {
   position:absolute;
@@ -1627,6 +1708,9 @@
   top:2030px;
   width:270px;
   height:520px;
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u123_img {
   position:absolute;
@@ -1649,6 +1733,9 @@
   top:2076px;
   width:238px;
   height:400px;
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
 }
 #u125_img {
   position:absolute;
@@ -2092,7 +2179,7 @@
   top:10px;
   width:960px;
   height:2740px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -2119,10 +2206,10 @@
 #u152 {
   position:absolute;
   left:221px;
-  top:2400px;
+  top:2432px;
   width:70px;
   height:70px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -2152,7 +2239,7 @@
   top:1040px;
   width:93px;
   height:93px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -2186,7 +2273,7 @@
   -moz-transform:rotate(330deg);
   -ms-transform:rotate(330deg);
   transform:rotate(330deg);
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -2216,7 +2303,7 @@
   top:27px;
   width:140px;
   height:12px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -2275,7 +2362,7 @@
   top:2660px;
   width:960px;
   height:1340px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -2359,10 +2446,10 @@
 #u168 {
   position:absolute;
   left:310px;
-  top:350px;
+  top:390px;
   width:360px;
   height:50px;
-  font-family:'NokiaPureHeadline-Regular', 'Nokia Pure Headline';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:26px;
@@ -2394,8 +2481,8 @@
   left:136px;
   top:270px;
   width:709px;
-  height:58px;
-  font-family:'NokiaPureHeadline-Light', 'Nokia Pure Headline Light', 'Nokia Pure Headline';
+  height:57px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
   font-weight:200;
   font-style:normal;
   font-size:42px;
@@ -2409,7 +2496,7 @@
   left:0px;
   top:0px;
   width:709px;
-  height:58px;
+  height:57px;
 }
 #u171 {
   position:absolute;
@@ -2424,7 +2511,7 @@
   top:139px;
   width:83px;
   height:83px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -2452,9 +2539,9 @@
   position:absolute;
   left:446px;
   top:142px;
-  width:129px;
-  height:53px;
-  font-family:'NokiaPureHeadline-Light', 'Nokia Pure Headline Light', 'Nokia Pure Headline';
+  width:141px;
+  height:52px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
   font-weight:200;
   font-style:normal;
   font-size:38px;
@@ -2467,23 +2554,23 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:129px;
-  height:53px;
+  width:141px;
+  height:52px;
 }
 #u175 {
   position:absolute;
   left:0px;
   top:0px;
-  width:129px;
+  width:141px;
   white-space:nowrap;
 }
 #u176 {
   position:absolute;
-  left:570px;
+  left:584px;
   top:137px;
   width:40px;
   height:19px;
-  font-family:'NokiaPureHeadline-Light', 'Nokia Pure Headline Light', 'Nokia Pure Headline';
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
   font-weight:200;
   font-style:normal;
   font-size:16px;
@@ -2508,14 +2595,14 @@
 }
 #u178 {
   position:absolute;
-  left:450px;
-  top:190px;
+  left:448px;
+  top:193px;
   width:135px;
-  height:77px;
-  font-family:'NokiaPureHeadline-UltraLight', 'Nokia Pure Headline Ultra Light', 'Nokia Pure Headline';
-  font-weight:100;
+  height:68px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
   font-style:normal;
-  font-size:20px;
+  font-size:18px;
   text-decoration:none;
   color:#BEC8D2;
   text-align:left;
@@ -2526,7 +2613,7 @@
   left:0px;
   top:0px;
   width:135px;
-  height:77px;
+  height:68px;
 }
 #u179 {
   position:absolute;
@@ -2541,7 +2628,7 @@
   top:490px;
   width:360px;
   height:202px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -2571,7 +2658,7 @@
   top:564px;
   width:36px;
   height:57px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -2599,12 +2686,12 @@
   position:absolute;
   left:50px;
   top:850px;
-  width:470px;
-  height:42px;
-  font-family:'NokiaPureHeadline-UltraLight', 'Nokia Pure Headline Ultra Light', 'Nokia Pure Headline';
-  font-weight:100;
+  width:520px;
+  height:38px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
   font-style:normal;
-  font-size:30px;
+  font-size:28px;
   text-decoration:none;
   color:#00C9FF;
   text-align:left;
@@ -2614,14 +2701,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:470px;
-  height:42px;
+  width:520px;
+  height:38px;
 }
 #u185 {
   position:absolute;
   left:0px;
   top:0px;
-  width:470px;
+  width:520px;
   word-wrap:break-word;
 }
 #u186 {
@@ -2629,11 +2716,11 @@
   left:50px;
   top:907px;
   width:485px;
-  height:82px;
-  font-family:'NokiaPureHeadline-UltraLight', 'Nokia Pure Headline Ultra Light', 'Nokia Pure Headline';
-  font-weight:100;
+  height:72px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
   font-style:normal;
-  font-size:20px;
+  font-size:18px;
   text-decoration:none;
   color:#BEC8D2;
   text-align:left;
@@ -2644,7 +2731,7 @@
   left:0px;
   top:0px;
   width:485px;
-  height:82px;
+  height:72px;
 }
 #u187 {
   position:absolute;
@@ -2657,12 +2744,12 @@
   position:absolute;
   left:522px;
   top:1463px;
-  width:380px;
-  height:42px;
-  font-family:'NokiaPureHeadline-UltraLight', 'Nokia Pure Headline Ultra Light', 'Nokia Pure Headline';
-  font-weight:100;
+  width:418px;
+  height:38px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
   font-style:normal;
-  font-size:30px;
+  font-size:28px;
   text-decoration:none;
   color:#00C9FF;
   text-align:left;
@@ -2672,14 +2759,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:380px;
-  height:42px;
+  width:418px;
+  height:38px;
 }
 #u189 {
   position:absolute;
   left:0px;
   top:0px;
-  width:380px;
+  width:418px;
   word-wrap:break-word;
 }
 #u190 {
@@ -2687,11 +2774,11 @@
   left:445px;
   top:1518px;
   width:495px;
-  height:82px;
-  font-family:'NokiaPureHeadline-UltraLight', 'Nokia Pure Headline Ultra Light', 'Nokia Pure Headline';
-  font-weight:100;
+  height:72px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
   font-style:normal;
-  font-size:20px;
+  font-size:18px;
   text-decoration:none;
   color:#BEC8D2;
   text-align:left;
@@ -2702,7 +2789,7 @@
   left:0px;
   top:0px;
   width:495px;
-  height:82px;
+  height:72px;
 }
 #u191 {
   position:absolute;
@@ -2717,7 +2804,7 @@
   top:1458px;
   width:57px;
   height:48px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -2744,13 +2831,13 @@
 #u194 {
   position:absolute;
   left:50px;
-  top:2079px;
-  width:520px;
-  height:42px;
-  font-family:'NokiaPureHeadline-UltraLight', 'Nokia Pure Headline Ultra Light', 'Nokia Pure Headline';
-  font-weight:100;
+  top:2072px;
+  width:566px;
+  height:38px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
   font-style:normal;
-  font-size:30px;
+  font-size:28px;
   text-decoration:none;
   color:#00C9FF;
   text-align:left;
@@ -2760,26 +2847,26 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:520px;
-  height:42px;
+  width:566px;
+  height:38px;
 }
 #u195 {
   position:absolute;
   left:0px;
   top:0px;
-  width:520px;
+  width:566px;
   word-wrap:break-word;
 }
 #u196 {
   position:absolute;
   left:50px;
-  top:2134px;
-  width:500px;
-  height:165px;
-  font-family:'NokiaPureHeadline-UltraLight', 'Nokia Pure Headline Ultra Light', 'Nokia Pure Headline';
-  font-weight:100;
+  top:2121px;
+  width:520px;
+  height:144px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
   font-style:normal;
-  font-size:20px;
+  font-size:18px;
   text-decoration:none;
   color:#BEC8D2;
   text-align:left;
@@ -2789,24 +2876,24 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:500px;
-  height:165px;
+  width:520px;
+  height:144px;
 }
 #u197 {
   position:absolute;
   left:0px;
   top:0px;
-  width:500px;
+  width:520px;
   word-wrap:break-word;
 }
 #u198 {
   position:absolute;
   left:136px;
-  top:2690px;
+  top:2713px;
   width:709px;
-  height:58px;
-  font-family:'NokiaPureHeadline-UltraLight', 'Nokia Pure Headline Ultra Light', 'Nokia Pure Headline';
-  font-weight:100;
+  height:57px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
   font-style:normal;
   font-size:42px;
   text-decoration:none;
@@ -2819,7 +2906,7 @@
   left:0px;
   top:0px;
   width:709px;
-  height:58px;
+  height:57px;
 }
 #u199 {
   position:absolute;
@@ -2833,11 +2920,11 @@
   left:260px;
   top:2810px;
   width:520px;
-  height:42px;
-  font-family:'NokiaPureHeadline-UltraLight', 'Nokia Pure Headline Ultra Light', 'Nokia Pure Headline';
-  font-weight:100;
+  height:38px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
   font-style:normal;
-  font-size:30px;
+  font-size:28px;
   text-decoration:none;
   color:#00C9FF;
   text-align:center;
@@ -2848,7 +2935,7 @@
   left:0px;
   top:0px;
   width:520px;
-  height:42px;
+  height:38px;
 }
 #u201 {
   position:absolute;
@@ -2862,11 +2949,11 @@
   left:50px;
   top:2870px;
   width:890px;
-  height:199px;
-  font-family:'NokiaPureHeadline-UltraLight', 'Nokia Pure Headline Ultra Light', 'Nokia Pure Headline';
-  font-weight:100;
+  height:176px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
   font-style:normal;
-  font-size:20px;
+  font-size:18px;
   text-decoration:none;
   color:#BEC8D2;
   text-align:left;
@@ -2876,7 +2963,7 @@
   left:0px;
   top:0px;
   width:890px;
-  height:199px;
+  height:176px;
 }
 #u203 {
   position:absolute;
@@ -2890,11 +2977,11 @@
   left:279px;
   top:3106px;
   width:470px;
-  height:42px;
-  font-family:'NokiaPureHeadline-UltraLight', 'Nokia Pure Headline Ultra Light', 'Nokia Pure Headline';
-  font-weight:100;
+  height:38px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
   font-style:normal;
-  font-size:30px;
+  font-size:28px;
   text-decoration:none;
   color:#00C9FF;
   text-align:center;
@@ -2905,7 +2992,7 @@
   left:0px;
   top:0px;
   width:470px;
-  height:42px;
+  height:38px;
 }
 #u205 {
   position:absolute;
@@ -2919,11 +3006,11 @@
   left:50px;
   top:3171px;
   width:890px;
-  height:266px;
-  font-family:'NokiaPureHeadline-UltraLight', 'Nokia Pure Headline Ultra Light', 'Nokia Pure Headline';
-  font-weight:100;
+  height:236px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
   font-style:normal;
-  font-size:20px;
+  font-size:18px;
   text-decoration:none;
   color:#BEC8D2;
   text-align:left;
@@ -2933,7 +3020,7 @@
   left:0px;
   top:0px;
   width:890px;
-  height:266px;
+  height:236px;
 }
 #u207 {
   position:absolute;
@@ -2948,7 +3035,7 @@
   top:3556px;
   width:83px;
   height:83px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -2978,7 +3065,7 @@
   top:2809px;
   width:40px;
   height:40px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -3008,7 +3095,7 @@
   top:3101px;
   width:51px;
   height:51px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -3035,10 +3122,10 @@
 #u214 {
   position:absolute;
   left:339px;
-  top:364px;
+  top:404px;
   width:15px;
   height:22px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -3066,9 +3153,9 @@
   position:absolute;
   left:460px;
   top:3555px;
-  width:129px;
-  height:53px;
-  font-family:'NokiaPureHeadline-Light', 'Nokia Pure Headline Light', 'Nokia Pure Headline';
+  width:141px;
+  height:52px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
   font-weight:200;
   font-style:normal;
   font-size:38px;
@@ -3081,14 +3168,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:129px;
-  height:53px;
+  width:141px;
+  height:52px;
 }
 #u217 {
   position:absolute;
   left:0px;
   top:0px;
-  width:129px;
+  width:141px;
   white-space:nowrap;
 }
 #u218 {
@@ -3097,7 +3184,7 @@
   top:3550px;
   width:40px;
   height:19px;
-  font-family:'NokiaPureHeadline-Light', 'Nokia Pure Headline Light', 'Nokia Pure Headline';
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
   font-weight:200;
   font-style:normal;
   font-size:16px;
@@ -3126,10 +3213,10 @@
   top:3608px;
   width:135px;
   height:39px;
-  font-family:'NokiaPureHeadline-UltraLight', 'Nokia Pure Headline Ultra Light', 'Nokia Pure Headline';
-  font-weight:100;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
   font-style:normal;
-  font-size:20px;
+  font-size:18px;
   text-decoration:none;
   color:#BEC8D2;
   text-align:left;
@@ -3155,7 +3242,7 @@
   top:3920px;
   width:19px;
   height:19px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -3185,7 +3272,7 @@
   top:24px;
   width:19px;
   height:19px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -3215,7 +3302,7 @@
   top:3695px;
   width:360px;
   height:50px;
-  font-family:'NokiaPureHeadline-Regular', 'Nokia Pure Headline';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:26px;
@@ -3248,7 +3335,7 @@
   top:3709px;
   width:15px;
   height:22px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -3278,7 +3365,7 @@
   top:810px;
   width:270px;
   height:520px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -3308,7 +3395,7 @@
   top:1080px;
   width:25px;
   height:25px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -3338,7 +3425,7 @@
   top:1123px;
   width:51px;
   height:51px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -3368,7 +3455,7 @@
   top:1151px;
   width:38px;
   height:38px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -3402,7 +3489,7 @@
   -moz-transform:rotate(6deg);
   -ms-transform:rotate(6deg);
   transform:rotate(6deg);
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -3436,7 +3523,7 @@
   -moz-transform:rotate(6deg);
   -ms-transform:rotate(6deg);
   transform:rotate(6deg);
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -3463,11 +3550,11 @@
 #u242 {
   position:absolute;
   left:128px;
-  top:2298px;
+  top:2330px;
   width:234px;
   height:259px;
   opacity:0.800000011920929;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -3497,7 +3584,7 @@
   top:856px;
   width:238px;
   height:400px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -3527,7 +3614,7 @@
   top:1420px;
   width:270px;
   height:520px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -3557,7 +3644,7 @@
   top:1466px;
   width:238px;
   height:400px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -3587,7 +3674,7 @@
   top:2040px;
   width:270px;
   height:520px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -3617,7 +3704,7 @@
   top:2086px;
   width:238px;
   height:400px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -3982,17 +4069,18 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 #u41_img.a.mouseOver {
 }
 #u42.a {
+  top:-11px;
   width:226px;
 }
 #u43.a {
   left:26px;
   top:133px;
   width:268px;
-  height:63px;
+  height:64px;
 }
 #u43_img.a {
   width:268px;
-  height:63px;
+  height:64px;
 }
 #u44.a {
   width:268px;
@@ -4014,15 +4102,15 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 #u47.a {
   left:134px;
   top:60px;
-  width:79px;
+  width:86px;
   height:32px;
 }
 #u47_img.a {
-  width:79px;
+  width:86px;
   height:32px;
 }
 #u48.a {
-  width:79px;
+  width:86px;
 }
 #u49.a {
   left:213px;
@@ -4041,11 +4129,11 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   left:-56px;
   top:-303px;
   width:299px;
-  height:99px;
+  height:100px;
 }
 #u51_img.a {
   width:299px;
-  height:99px;
+  height:100px;
 }
 #u52.a {
   width:299px;
@@ -4070,11 +4158,11 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   left:26px;
   top:303px;
   width:268px;
-  height:63px;
+  height:64px;
 }
 #u57_img.a {
   width:268px;
-  height:63px;
+  height:64px;
 }
 #u58.a {
   width:268px;
@@ -4083,11 +4171,11 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   left:21px;
   top:1092px;
   width:268px;
-  height:77px;
+  height:76px;
 }
 #u59_img.a {
   width:268px;
-  height:77px;
+  height:76px;
 }
 #u60.a {
   width:268px;
@@ -4096,11 +4184,11 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   left:386px;
   top:769px;
   width:268px;
-  height:32px;
+  height:64px;
 }
 #u61_img.a {
   width:268px;
-  height:32px;
+  height:64px;
 }
 #u62.a {
   width:268px;
@@ -4109,11 +4197,11 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   left:381px;
   top:1558px;
   width:268px;
-  height:77px;
+  height:76px;
 }
 #u63_img.a {
   width:268px;
-  height:77px;
+  height:76px;
 }
 #u64.a {
   width:268px;
@@ -4128,11 +4216,11 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   left:26px;
   top:918px;
   width:268px;
-  height:63px;
+  height:64px;
 }
 #u67_img.a {
   width:268px;
-  height:63px;
+  height:64px;
 }
 #u68.a {
   width:268px;
@@ -4141,11 +4229,11 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   left:21px;
   top:1707px;
   width:268px;
-  height:174px;
+  height:190px;
 }
 #u69_img.a {
   width:268px;
-  height:174px;
+  height:190px;
 }
 #u70.a {
   width:268px;
@@ -4167,11 +4255,11 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   left:46px;
   top:1268px;
   width:268px;
-  height:63px;
+  height:64px;
 }
 #u73_img.a {
   width:268px;
-  height:63px;
+  height:64px;
 }
 #u74.a {
   width:268px;
@@ -4180,11 +4268,11 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   left:41px;
   top:2057px;
   width:268px;
-  height:299px;
+  height:332px;
 }
 #u75_img.a {
   width:268px;
-  height:299px;
+  height:332px;
 }
 #u76.a {
   width:268px;
@@ -4193,11 +4281,11 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   left:46px;
   top:1569px;
   width:268px;
-  height:32px;
+  height:64px;
 }
 #u77_img.a {
   width:268px;
-  height:32px;
+  height:64px;
 }
 #u78.a {
   width:268px;
@@ -4206,11 +4294,11 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   left:41px;
   top:2358px;
   width:268px;
-  height:408px;
+  height:439px;
 }
 #u79_img.a {
   width:268px;
-  height:408px;
+  height:439px;
 }
 #u80.a {
   width:268px;
@@ -4250,15 +4338,15 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 #u89.a {
   left:242px;
   top:3309px;
-  width:79px;
+  width:86px;
   height:32px;
 }
 #u89_img.a {
-  width:79px;
+  width:86px;
   height:32px;
 }
 #u90.a {
-  width:79px;
+  width:86px;
 }
 #u91.a {
   left:321px;
@@ -4309,6 +4397,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 #u99_img.a.mouseOver {
 }
 #u100.a {
+  top:-11px;
   width:226px;
 }
 #u101.a {
@@ -4588,7 +4677,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 }
 #u152.a {
   left:211px;
-  top:2390px;
+  top:2422px;
 }
 #u152_img.a {
 }
@@ -4685,7 +4774,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 #u175.a {
 }
 #u176.a {
-  left:560px;
+  left:574px;
   top:127px;
 }
 #u176_img.a {
@@ -4693,8 +4782,8 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 #u177.a {
 }
 #u178.a {
-  left:440px;
-  top:180px;
+  left:438px;
+  top:183px;
 }
 #u178_img.a {
 }
@@ -4758,7 +4847,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 }
 #u194.a {
   left:40px;
-  top:2069px;
+  top:2062px;
 }
 #u194_img.a {
 }
@@ -4766,7 +4855,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 }
 #u196.a {
   left:40px;
-  top:2124px;
+  top:2111px;
 }
 #u196_img.a {
 }
@@ -4774,7 +4863,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 }
 #u198.a {
   left:126px;
-  top:2680px;
+  top:2703px;
 }
 #u198_img.a {
 }
@@ -4952,7 +5041,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 }
 #u242.a {
   left:118px;
-  top:2288px;
+  top:2320px;
 }
 #u242_img.a {
   opacity:0.800000011920929;
