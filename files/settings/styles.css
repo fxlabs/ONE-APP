@@ -127,6 +127,28 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u10 {
+  position:absolute;
+  left:12px;
+  top:374px;
+  width:30px;
+  height:30px;
+}
+#u10_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:30px;
+  height:30px;
+}
+#u11 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:26px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
 body.a {  background-color:rgba(255, 255, 255, 1);
   background-image:none;
   position:static;
@@ -156,4 +178,10 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 #u6.a {
 }
 #u8.a {
+}
+#u10.a {
+}
+#u10_img.a {
+}
+#u11.a {
 }
