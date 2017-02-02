@@ -306,30 +306,54 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   background-image:none;
   position:static;
   left:auto;
-  width:1280px;
+  width:320px;
   margin-left:0;
   margin-right:0;
   text-align:left;
 }
 #u0.a {
+  width:320px;
+  height:568px;
+}
+#u0_img.a {
+  width:320px;
+  height:568px;
+}
+#u1.a {
+  top:276px;
+  width:316px;
 }
 #u2.a {
+  width:320px;
+  height:70px;
+}
+#u2_img.a {
+  width:320px;
+  height:70px;
+}
+#u3.a {
+  top:27px;
+  width:316px;
 }
 #u4.a {
 }
+#u4_img.a {
+}
+#u5.a {
+}
 #u6.a {
   position:absolute;
-  left:464px;
-  top:275px;
-  width:320px;
-  height:50px;
+  left:20px;
+  top:125px;
+  width:280px;
+  height:40px;
 }
 #u6_input.a {
   position:absolute;
   left:0px;
   top:0px;
-  width:320px;
-  height:50px;
+  width:280px;
+  height:40px;
   font-family:'ArialMT', 'Arial';
   font-weight:400;
   font-style:normal;
@@ -339,20 +363,26 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   text-align:left;
 }
 #u7.a {
+  left:20px;
+  top:100px;
+}
+#u7_img.a {
+}
+#u8.a {
 }
 #u9.a {
   position:absolute;
-  left:464px;
-  top:375px;
-  width:320px;
-  height:50px;
+  left:20px;
+  top:215px;
+  width:280px;
+  height:40px;
 }
 #u9_input.a {
   position:absolute;
   left:0px;
   top:0px;
-  width:320px;
-  height:50px;
+  width:280px;
+  height:40px;
   font-family:'ArialMT', 'Arial';
   font-weight:400;
   font-style:normal;
@@ -362,14 +392,49 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   text-align:left;
 }
 #u10.a {
+  left:20px;
+  top:190px;
+}
+#u10_img.a {
+}
+#u11.a {
 }
 #u12.a {
+  left:20px;
+  top:530px;
+}
+#u12_img.a {
+}
+#u13.a {
 }
 #u14.a {
+  left:20px;
+  top:320px;
+  width:280px;
+  height:50px;
+}
+#u14_img.a {
+  width:280px;
+  height:50px;
+}
+#u14_img.a.disabled {
+  opacity:0.5;
+}
+#u15.a {
+  top:12px;
+  width:276px;
 }
 #u16.a {
+  left:123px;
+  top:393px;
+}
+#u16_img.a {
+}
+#u17.a {
 }
 #u18.a {
+  left:20px;
+  top:290px;
 }
 #u18_input.a {
   position:absolute;
@@ -379,4 +444,12 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 #u19.a {
 }
 #u20.a {
+  top:15px;
+  width:280px;
+}
+#u20_img.a {
+  width:280px;
+}
+#u21.a {
+  width:280px;
 }
