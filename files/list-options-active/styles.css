@@ -1,0 +1,170 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:375px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:698px;
+}
+#u0_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:698px;
+}
+#u1 {
+  position:absolute;
+  left:2px;
+  top:341px;
+  width:371px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2 {
+  position:fixed;
+  left:50%;
+  margin-left:-66px;
+  top:8px;
+}
+#u2_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  background-image:none;
+}
+#u2_state0_content {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u3 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:132px;
+  height:38px;
+}
+#u3_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:132px;
+  height:38px;
+}
+#u4 {
+  position:absolute;
+  left:2px;
+  top:11px;
+  width:128px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u5 {
+  position:absolute;
+  left:0px;
+  top:707px;
+  width:375px;
+  height:387px;
+}
+#u5_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:387px;
+}
+#u6 {
+  position:absolute;
+  left:2px;
+  top:186px;
+  width:371px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u7 {
+  position:absolute;
+  left:0px;
+  top:1105px;
+  width:375px;
+  height:387px;
+}
+#u7_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:387px;
+}
+#u8 {
+  position:absolute;
+  left:2px;
+  top:186px;
+  width:371px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u9 {
+  position:absolute;
+  left:0px;
+  top:1509px;
+  width:370px;
+  height:21px;
+}
+#u9_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:370px;
+  height:21px;
+}
+#u10 {
+  position:absolute;
+  left:2px;
+  top:2px;
+  width:366px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+body.a {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:375px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u0.a {
+}
+#u2.a {
+  position:fixed;
+  left:50%;
+  margin-left:-66px;
+  top:8px;
+  width:132px;
+  height:38px;
+}
+#u3.a {
+}
+#u5.a {
+}
+#u7.a {
+}
+#u9.a {
+}
