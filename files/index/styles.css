@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1104px;
+  width:370px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -14,23 +14,23 @@
 }
 #u0 {
   position:absolute;
-  left:80px;
-  top:70px;
-  width:1024px;
-  height:700px;
+  left:170px;
+  top:320px;
+  width:200px;
+  height:100px;
 }
 #u0_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:1024px;
-  height:700px;
+  width:200px;
+  height:100px;
 }
 #u1 {
   position:absolute;
   left:2px;
-  top:342px;
-  width:1020px;
+  top:42px;
+  width:196px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -38,7 +38,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   background-image:none;
   position:static;
   left:auto;
-  width:1104px;
+  width:370px;
   margin-left:0;
   margin-right:0;
   text-align:left;
